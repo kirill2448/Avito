@@ -1,7 +1,7 @@
 from favourites
-Объявление   В избранном
+ГЋГЎГєГїГўГ«ГҐГ­ГЁГҐ   Г‚ ГЁГ§ГЎГ°Г Г­Г­Г®Г¬
 Domain-Driven Design Distilled Vaughn Vernon
 from favourites
-Объявление   В избранном
+ГЋГЎГєГїГўГ«ГҐГ­ГЁГҐ   Г‚ ГЁГ§ГЎГ°Г Г­Г­Г®Г¬
 Domain-Driven Design Distilled Vaughn Vernon
 
